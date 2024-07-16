@@ -1,0 +1,41 @@
+.product_listing {
+  width: 80%;
+  border: 1px solid red;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px 100px;
+}
+
+.navImg1 {
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.navImg2 {
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.input {
+  outline: 1px solid gray;
+  width: 90%;
+  padding: 8px;
+  margin: 14px;
+  text-align: left;
+  margin-left: 22px;
+  font-size: medium;
+  border-radius: 5px;
+  background-color: white;
+  border: none;
+}
+
+.input:hover {
+  outline: 2px solid black;
+}

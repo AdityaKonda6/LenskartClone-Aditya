@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "frontend": "cd Lenskart_Clone\\frontend && npm start",
+    "backend": "cd Lenskart_Clone\\backend && npm start",
+    "adi": "concurrently \"npm run frontend\" \"npm run backend\"",
+    "build": "concurrently \"npm run frontend\" \"npm run backend\"",
+    "postinstall": "npm install --legacy-peer-deps"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.1",
+    "react-router-dom": "^6.17.0",
+    "sweetalert2": "^11.7.31",
+    "sweetalert2-react-content": "^5.0.7",
+    "react-credit-cards": "github:amaroteam/react-credit-cards",
+    "react": "^15.0.0 || ^16.0.0 || ^18.0.0",
+    "react-dom": "^15.0.0 || ^16.0.0 || ^18.0.0"
+  }
+}
