@@ -22,6 +22,9 @@
     "mongoose": "^6.8.3",
     "nodemon": "^2.0.20",
     "payment": "^2.4.6",
+    "react": "^18.2.0",
+    "react-credit-cards": "^0.8.3",
+    "react-dom": "^18.2.0",
     "react-hot-toast": "^2.4.0",
     "react-icons": "^4.7.1",
     "react-player": "^2.11.0",
@@ -37,10 +40,9 @@
     "concurrently": "^8.2.1",
     "react-router-dom": "^6.17.0",
     "sweetalert2": "^11.7.31",
-    "sweetalert2-react-content": "^5.0.7",
-    "react-credit-cards": "github:amaroteam/react-credit-cards",
-    "react": "^15.0.0 || ^16.0.0 || ^18.0.0",
-    "react-dom": "^15.0.0 || ^16.0.0 || ^18.0.0"
+    "sweetalert2-react-content": "^5.0.7"
+
+
   },
   "scripts": {
     "start": "react-scripts start",
