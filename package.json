@@ -27,7 +27,7 @@
     "payment": "^2.4.6",
     "react": "^16.14.0",
     "react-credit-cards": "^0.8.3",
-    "react-dom": "^18.3.1",
+    "react-dom": "^16.14.0",
     "react-hot-toast": "^2.4.0",
     "react-icons": "^4.7.1",
     "react-player": "^2.11.0",
