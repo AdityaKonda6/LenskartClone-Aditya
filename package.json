@@ -4,8 +4,7 @@
     "frontend": "cd Lenskart_Clone\\frontend && npm start",
     "backend": "cd Lenskart_Clone\\backend && npm start",
     "adi": "concurrently \"npm run frontend\" \"npm run backend\"",
-    "build": "concurrently \"npm run frontend\" \"npm run backend\"",
-    "postinstall": "npm install --legacy-peer-deps"
+    "build": "concurrently \"npm run frontend\" \"npm run backend\""
   },
   "dependencies": {
     "@chakra-ui/icons": "^2.0.16",
