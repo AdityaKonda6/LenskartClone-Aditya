@@ -337,113 +337,114 @@ Give a ⭐️ if you like this project!
 
 <h1 align="center">✨Thank You✨</h1>
 
-<h1 align="center">Hi Coders <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aditya Konda</h1>
-<p align="center">
-  <a href="https://github.com/AdityaKonda6/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
-</p>
+<h1 align="center">Hi Coders <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<p align="center">
-  <em>
-    This is me <b>Aditya Konda</b>, a third year <b>Information Technology</b> undergraduate from <a href="[https://kccemsr.edu.in/]"> <b>K.C College Of Engineering</b>, India</a>.
-    An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Full Stack Web Developer</b> 
-  <br>
-  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
-</p>
+## Hey there 👋, I'm [<a href="https://adityakonda04.vercel.app/">Aditya!</a>](https://github.com/AdityaKonda6)
 
-<h3>Little facts about me 🧑</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-adi-konda/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AdityaKonda7)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/konda_aditya/)
+<img align="right" height="250" width="375" alt="" src="https://github.com/AdityaKonda6/AdityaKonda6/blob/main/giphy2.webp" />
 
-- 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially volleyball.
-<br>
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=adityakonda.adityakonda&style=flat-square&color=0088cc)
+
+I’m a **2025 IT Graduate** passionate about **DevOps, Cloud, and Software Development** 🚀.  
+My mission? To **bridge the gap between development and operations**—building scalable systems, automating workflows, and ensuring quality from code to deployment.
+
+With a strong foundation in **Java, SQL, Linux**, and hands-on experience with **CI/CD pipelines, Selenium automation, cloud services, and Android development**, I thrive in solving problems end-to-end—from writing code to deploying it in production.
+
+Recently, at **CWD Limited**, I worked on:
+- **Automation Testing Frameworks** (Selenium, Java, Maven)
+- **Linux-based system configurations & debugging**
+- **Hardware-software integration testing**
+- API testing with Postman  
+…and in the process, strengthened my DevOps skill set.
+
+💡 Curious mind. Fast learner. Always ready to build, break, and rebuild—better.
 
 ---
+
+### 🚀 What I’m Working On:
+- Building **DevOps projects** (Jenkins, Docker, Kubernetes, AWS, Ansible)
+- Enhancing **automation frameworks** for testing & deployment
+- Crafting **Android apps** and backend services
+- Expanding my **Linux administration** skills
+
+---
+
+### 💼 My Tech Stack:
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" alt="Linux"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" alt="Kubernetes"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" alt="AWS"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" alt="SQL"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+---
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### 📌 Highlights:
+- 🛠 Built **dynamic Selenium automation scripts** integrated with Maven
+- 🚀 Created & deployed **full-stack and Android applications**
+- 🐧 Comfortable with **Linux system administration & shell scripting**
+- 📦 Implemented CI/CD workflows for smoother deployments
+- ☁️ Learning & applying **cloud infrastructure concepts**
+
+--
+
+### 📫 How to Reach Me:
+- Email: **adityakonda04@gmail.com**
+- Portfolio: [adityakonda04.vercel.app](https://adityakonda04.vercel.app/)
+- LinkedIn: [Aditya Adi Konda](https://www.linkedin.com/in/aditya-adi-konda/)
+
+---
+
+### 📊 GitHub Stats:
+<details>
+  <summary><b>⚡ GitHub Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityakonda6&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakonda6&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
 <details>
-<summary>
-  ✨ Tech stack currently using:
-</summary>
-   <br>
-<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://id.heroku.com/login" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"  height="30"></a></code>
-<code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
-<code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code>
- <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-<code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
-<code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
-  
+  <summary><b>🔥 GitHub Streaks</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakonda6&hide_border=true" />
 </details>
-<br>
 
 <details>
-<summary>
-  🌱 Looking forward to learn:
-</summary>
-   <br>
-<code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
-<code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
-<code><a href="https://opencv.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></a></code>
-<code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
-</details>
-<br>
-
----
-
-<details open="">
-<summary>
- 📔 GitHub Stats:
-</summary>
-<br>
-<p align="center">
-  <a href="https://github.com/AdityaKonda6">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=AdityaKonda6&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/AdityaKonda6">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKonda6&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKonda6&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="AdityaKonda6" /></p>
-   <p align="center"><img align="center" src="https://leetcard.jacoblin.cool/adityakonda04?theme=dark&font=Coda%20Caption&ext=heatmap" /></p>
+  <summary><b>☄️ LeetCode Stats</b></summary>
+  <br />
+   <p align="center"><img align="center" src="https://leetcard.jacoblin.cool/adityakonda04?theme=wtf&font=Coda%20Caption&ext=heatmap" /></p>
 </details>
 
 ---
 
-<h4> Connect with me🤝: <h4>
-  </hr>
-  <a href="https://www.linkedin.com/in/aditya-adi-konda/">
-   <img align="left" alt=" Aditya Konda | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:adityakonda04@gmail.com">
-    <img align="left" alt="Aditya Konda | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://twitter.com/AdityaKonda7">
-    <img align="left" alt="Aditya Konday| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>
-  <a href="https://www.instagram.com/konda_aditya">
-    <img align="left" alt="Aditya Konda | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://www.facebook.com/aditya.konda.108">
-    <img align="left" alt="Aditya Konda| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-  </a>
-   <a href="https://github.com/AdityaKonda6">
-    <img align="left" alt="Aditya Konda| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <br>
-  
-<p align="right" > Created with 🖤 by <a href="https://github.com/AdityaKonda6">Aditya Konda</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=AdityaKonda6&label=Profile%20views&color=0e75b6&style=flat" alt="AdityaKonda6" /> </p>
+💬 Always open to collaborations, tech discussions, and exploring new opportunities in **DevOps, Cloud, and Software Development**.
+
+
+Like My Work?
+
+<a href="https://www.buymeacoffee.com/adityakonda04" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaKonda6&label=Profile%20views&color=0e75b6&style=flat" alt="AdityaKonda6" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdityaKonda6" alt="AdityaKonda6" /></a> </p>
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+### <a href="https://adityakonda04.vercel.app/">My Portfolio</a>
+</div>
+
