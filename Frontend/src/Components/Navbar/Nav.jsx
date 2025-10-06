@@ -5,7 +5,6 @@ import { AuthContext } from "../../ContextApi/AuthContext";
 import { Link, Navigate } from "react-router-dom";
 import { HamburgerIcon } from "@chakra-ui/icons";
 import {
-  DrawerCloseButton,
   Button,
   Box,
   useDisclosure,
@@ -75,7 +74,7 @@ function Nav() {
           >
             
             <DrawerContent color="blackAlpha.900">
-              <DrawerCloseButton />
+        
               <DrawerHeader bg="whiteAlpha.900">
                 {isAuth ? (
                   <Flex
