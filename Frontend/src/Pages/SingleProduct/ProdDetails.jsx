@@ -6,7 +6,6 @@ import {
   Flex,
   Accordion,
   AccordionItem,
-  AccordionButton,
   AccordionPanel,
   AccordionIcon,
   Box
@@ -18,12 +17,12 @@ const ProdDetails = ({ type }) => {
     <Accordion defaultIndex={[0]} allowMultiple w="100%" m="auto">
       <AccordionItem>
         <h2>
-          <AccordionButton>
+          <Accordion.Button>
             <Box as="span" flex="1" textAlign="left" fontWeight="500">
               Technical Information
             </Box>
             <AccordionIcon />
-          </AccordionButton>
+          </Accordion.Button>
         </h2>
         <AccordionPanel pb={4}>
           <Box>
@@ -68,12 +67,12 @@ const ProdDetails = ({ type }) => {
       </AccordionItem>
       <AccordionItem>
         <h2>
-          <AccordionButton>
+          <Accordion.Button>
             <Box as="span" flex="1" textAlign="left" fontWeight="500">
               Visit Nearby Store
             </Box>
             <AccordionIcon />
-          </AccordionButton>
+          </Accordion.Button>
         </h2>
         <AccordionPanel pb={4}>
           <Flex gap="4" p="4">
@@ -92,12 +91,12 @@ const ProdDetails = ({ type }) => {
       </AccordionItem>
       <AccordionItem>
         <h2>
-          <AccordionButton>
+          <Accordion.Button>
             <Box as="span" flex="1" textAlign="left" fontWeight="500">
               Check Delivery Options
             </Box>
             <AccordionIcon />
-          </AccordionButton>
+          </Accordion.Button>
         </h2>
         <AccordionPanel pb={4}>
           <Input placeholder="Enter Pin Code" />
@@ -105,12 +104,12 @@ const ProdDetails = ({ type }) => {
       </AccordionItem>
       <AccordionItem>
         <h2>
-          <AccordionButton>
+          <Accordion.Button>
             <Box as="span" flex="1" textAlign="left" fontWeight="500">
               Review
             </Box>
             <AccordionIcon />
-          </AccordionButton>
+          </Accordion.Button>
         </h2>
         <AccordionPanel pb={4}>
           <Text textAlign="center" mb="4">

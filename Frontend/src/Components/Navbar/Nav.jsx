@@ -21,7 +21,6 @@ import {
   Text,
   Accordion,
   AccordionItem,
-  AccordionButton,
   AccordionPanel,
   AccordionIcon,
   Flex
@@ -223,7 +222,7 @@ function Nav() {
                   <Accordion defaultIndex={[0]} allowMultiple w="100%" m="auto">
                     <AccordionItem>
                       <h2>
-                        <AccordionButton>
+                        <Accordion.Button>
                           <Box
                             as="span"
                             flex="1"
@@ -233,7 +232,7 @@ function Nav() {
                             Men
                           </Box>
                           <AccordionIcon />
-                        </AccordionButton>
+                        </Accordion.Button>
                       </h2>
                       <AccordionPanel pb={4}>
                         <Link to="/products">
@@ -248,7 +247,7 @@ function Nav() {
                     </AccordionItem>
                     <AccordionItem>
                       <h2>
-                        <AccordionButton>
+                        <Accordion.Button>
                           <Box
                             as="span"
                             flex="1"
@@ -258,7 +257,7 @@ function Nav() {
                             Women
                           </Box>
                           <AccordionIcon />
-                        </AccordionButton>
+                        </Accordion.Button>
                       </h2>
                       <AccordionPanel pb={5}>
                         <Link to="/products">
@@ -273,7 +272,7 @@ function Nav() {
                     </AccordionItem>
                     <AccordionItem>
                       <h2>
-                        <AccordionButton>
+                        <Accordion.Button>
                           <Box
                             as="span"
                             flex="1"
@@ -283,7 +282,7 @@ function Nav() {
                             Kids
                           </Box>
                           <AccordionIcon />
-                        </AccordionButton>
+                        </Accordion.Button>
                       </h2>
                       <AccordionPanel pb={4}>
                         <Link to="/products">
