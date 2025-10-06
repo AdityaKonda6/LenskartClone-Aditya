@@ -1,4 +1,4 @@
-import { ADD_TO_WISHLIST, REMOVE_FROM_WISHLIST, RESET } from "./wishlist.types";
+import { ADD_TO_WISHLIST, REMOVE_FROM_WISHLIST, RESET } from "./wishlist.types.js";
 
 export const addToWishlist = (product) => {
   return {

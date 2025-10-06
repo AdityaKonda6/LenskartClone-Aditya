@@ -2,9 +2,8 @@ import React from "react";
 import {
   Box,
   Accordion,
+    AccordionContent,
   AccordionItem,
-  AccordionButton,
-  AccordionPanel,
   Grid
 } from "@chakra-ui/react";
 import { AddIcon, MinusIcon } from "@chakra-ui/icons";
@@ -32,7 +31,7 @@ const HomeCard8 = ({ type }) => {
                 {({ isExpanded }) => (
                   <>
                     <h2>
-                      <AccordionButton borderBottom="1px solid white">
+                      <Accordion.Trigger borderBottom="1px solid white">
                         <Box
                           as="span"
                           flex="1"
@@ -59,16 +58,16 @@ const HomeCard8 = ({ type }) => {
                             <AddIcon fontSize="12px" fontWeight="700" />
                           </Box>
                         )}
-                      </AccordionButton>
+                      </Accordion.Trigger>
                     </h2>
-                    <AccordionPanel
+                    <Accordion.Content
                       pb={4}
                       border="1px solid white"
                       borderRadius="md"
                       borderTopColor="#000042"
                     >
                       {i.info}
-                    </AccordionPanel>
+                    </Accordion.Content>
                   </>
                 )}
               </AccordionItem>

@@ -1,4 +1,4 @@
-import { PLACED_ORDER } from "./order.types";
+import { PLACED_ORDER } from "./order.types.js";
 const orderInitalState = {
   loading: false,
   error: false,

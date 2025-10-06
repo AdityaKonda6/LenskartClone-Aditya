@@ -5,9 +5,8 @@ import {
   RadioGroup,
   Stack,
   Accordion,
+    AccordionContent,
   AccordionItem,
-  AccordionButton,
-  AccordionPanel,
   AccordionIcon
 } from "@chakra-ui/react";
 
@@ -31,7 +30,7 @@ const ProdFilter = ({
       <Accordion defaultIndex={[0]} allowMultiple w="100%" m="auto" mt="-1%">
         <AccordionItem>
           <h2>
-            <AccordionButton>
+            <Accordion.Trigger>
               <Box
                 as="span"
                 flex="1"
@@ -49,9 +48,9 @@ const ProdFilter = ({
                 </Text>
               </Box>
               <AccordionIcon />
-            </AccordionButton>
-          </h2>
-          <AccordionPanel pb={4} color="gray.500" p="2">
+             </Accordion.Trigger>
+            </h2>
+          <Accordion.Content pb={4} color="gray.500" p="2">
             <RadioGroup onChange={handlechange} value={val}>
               <Stack direction="column" gap="2">
                 {type.map((ele, i) => (
@@ -61,11 +60,11 @@ const ProdFilter = ({
                 ))}
               </Stack>
             </RadioGroup>
-          </AccordionPanel>
+          </Accordion.Content>
         </AccordionItem>
         <AccordionItem>
           <h2>
-            <AccordionButton>
+              <Accordion.Trigger>
               <Box
                 as="span"
                 flex="1"
@@ -83,9 +82,9 @@ const ProdFilter = ({
                 </Text>
               </Box>
               <AccordionIcon />
-            </AccordionButton>
+            </Accordion.Trigger>
           </h2>
-          <AccordionPanel pb={4} color="gray.500" p="2">
+          <Accordion.Content pb={4} color="gray.500" p="2">
             <RadioGroup onChange={handlechange1} value={val1}>
               <Stack direction="column" gap="2">
                 {type1.map((el, i) => (
@@ -95,11 +94,11 @@ const ProdFilter = ({
                 ))}
               </Stack>
             </RadioGroup>
-          </AccordionPanel>
+          </Accordion.Content>
         </AccordionItem>
         <AccordionItem>
           <h2>
-            <AccordionButton>
+            <Accordion.Trigger>
               <Box
                 as="span"
                 flex="1"
@@ -117,9 +116,9 @@ const ProdFilter = ({
                 </Text>
               </Box>
               <AccordionIcon />
-            </AccordionButton>
+           </Accordion.Trigger>
           </h2>
-          <AccordionPanel pb={4} color="gray.500" p="2">
+          <Accordion.Content pb={4} color="gray.500" p="2">
             <RadioGroup onChange={handlechange2} value={val2}>
               <Stack direction="column" gap="2">
                 {type2.map((ele, i) => (
@@ -129,7 +128,7 @@ const ProdFilter = ({
                 ))}
               </Stack>
             </RadioGroup>
-          </AccordionPanel>
+          </Accordion.Content>
         </AccordionItem>
       </Accordion>
     </Box>
