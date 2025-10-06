@@ -21,7 +21,7 @@ import {
   Text,
   Accordion,
   AccordionItem,
-  AccordionPanel,
+  DrawerOverlay,
   AccordionIcon,
   Flex
 } from "@chakra-ui/react";
@@ -73,7 +73,7 @@ function Nav() {
           >
             
             <DrawerContent color="blackAlpha.900">
-        
+        <DrawerOverlay />
               <DrawerHeader bg="whiteAlpha.900">
                 {isAuth ? (
                   <Flex
@@ -222,7 +222,7 @@ function Nav() {
                   <Accordion defaultIndex={[0]} allowMultiple w="100%" m="auto">
                     <AccordionItem>
                       <h2>
-                        <Accordion.Button>
+                        <Accordion.Trigger>
                           <Box
                             as="span"
                             flex="1"
@@ -232,9 +232,9 @@ function Nav() {
                             Men
                           </Box>
                           <AccordionIcon />
-                        </Accordion.Button>
+                        </Accordion.Trigger>
                       </h2>
-                      <AccordionPanel pb={4}>
+                      <Accordion.Content pb={4}>
                         <Link to="/products">
                           <Box>
                             <Text pb="2">EYEGLASSES</Text>
@@ -243,11 +243,11 @@ function Nav() {
                             <Text pb="2">SUN GLASSES</Text>
                           </Box>
                         </Link>
-                      </AccordionPanel>
+                      </Accordion.Content>
                     </AccordionItem>
                     <AccordionItem>
                       <h2>
-                        <Accordion.Button>
+                       <Accordion.Trigger>
                           <Box
                             as="span"
                             flex="1"
@@ -257,9 +257,9 @@ function Nav() {
                             Women
                           </Box>
                           <AccordionIcon />
-                        </Accordion.Button>
+                        </Accordion.Trigger>
                       </h2>
-                      <AccordionPanel pb={5}>
+                      <Accordion.Content pb={5}>
                         <Link to="/products">
                           <Box>
                             <Text pb="2">EYEGLASSES</Text>
@@ -268,11 +268,11 @@ function Nav() {
                             <Text pb="2">SUN GLASSES</Text>
                           </Box>
                         </Link>
-                      </AccordionPanel>
+                      </Accordion.Content>
                     </AccordionItem>
                     <AccordionItem>
                       <h2>
-                        <Accordion.Button>
+                       <Accordion.Trigger>
                           <Box
                             as="span"
                             flex="1"
@@ -282,9 +282,10 @@ function Nav() {
                             Kids
                           </Box>
                           <AccordionIcon />
-                        </Accordion.Button>
+                          </Accordion.Trigger>
+                      
                       </h2>
-                      <AccordionPanel pb={4}>
+                      <Accordion.Content pb={4}>
                         <Link to="/products">
                           <Box>
                             <Text pb="2">EYEGLASSES</Text>
@@ -293,7 +294,7 @@ function Nav() {
                             <Text pb="2">SUN GLASSES</Text>
                           </Box>
                         </Link>
-                      </AccordionPanel>
+                      </Accordion.Content>
                     </AccordionItem>
                   </Accordion>
                 </Box>
