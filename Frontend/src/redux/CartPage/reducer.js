@@ -5,7 +5,7 @@ import {
   DECREMENT,
   RESET,
   applyCoupon
-} from "./actionType";
+} from "./actionType.js";
 
 let initialState = {
   loading: false,
