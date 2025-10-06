@@ -14,7 +14,6 @@ import {
   Input,
   Drawer,
   DrawerHeader,
-  DrawerOverlay,
   DrawerContent,
   DrawerFooter,
   DrawerBody,
@@ -74,7 +73,7 @@ function Nav() {
             initialFocusRef={firstField}
             onClose={onClose}
           >
-            <DrawerOverlay />
+            
             <DrawerContent color="blackAlpha.900">
               <DrawerCloseButton />
               <DrawerHeader bg="whiteAlpha.900">
