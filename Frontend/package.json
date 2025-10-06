@@ -30,7 +30,7 @@
   "react-redux": "^9.2.0",
   "react-router-dom": "^7.0.2",
   "react-scripts": "5.0.1",
-  "react-slideshow-image": "^5.2.0",
+  "react-slideshow-image": "^4.3.2",
   "react-spinners": "^0.14.0",
   "redux": "^5.0.1",
   "redux-thunk": "^3.1.0",
