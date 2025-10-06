@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import { ChakraProvider } from "@chakra-ui/react";
 import { BrowserRouter } from "react-router-dom";
 import AuthProvider from "./ContextApi/AuthContext";
-import App from "./App";
+import App from "./App.js";
 import { Provider } from "react-redux";
 import { store } from "./redux/store";
 
