@@ -45,13 +45,12 @@
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.49"
   },
-  "scripts": {
-    "client": "react-scripts start",
-    "server": "nodemon backend/server.js",
-    "start": "concurrently \"npm run server\" \"npm run client\"",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+ 
+  "scripts": { 
+    "start": "react-scripts start", 
+    "build": "react-scripts build", 
+    "test": "react-scripts test", 
+    "eject": "react-scripts eject" 
   },
   "eslintConfig": {
     "extends": ["react-app", "react-app/jest"]

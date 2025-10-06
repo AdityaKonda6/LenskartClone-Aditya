@@ -1,11 +1,11 @@
 {
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "frontend": "cd Lenskart_Clone\\frontend && npm start",
-    "backend": "cd Lenskart_Clone\\backend && npm start",
-    "adi": "concurrently \"npm run frontend\" \"npm run backend\"",
-    "build": "concurrently \"npm run frontend\" \"npm run backend\""
-  },
+ "scripts": { 
+  "test": "echo \"Error: no test specified\" && exit 1", 
+  "frontend": "cd Frontend && npm start", 
+  "backend": "cd Backend && npm start", 
+  "adi": "concurrently \"npm run frontend\" \"npm run backend\"", 
+  "build": "concurrently \"npm run frontend\" \"npm run backend\""
+ },
   "dependencies": {
     "@chakra-ui/icons": "^2.2.4",
     "@chakra-ui/react": "^3.27.0",
