@@ -8,7 +8,9 @@ import {
   useToast,
   Drawer,
   useDisclosure,
+  DrawerOverlay,
   DrawerContent,
+  DrawerCloseButton,
   DrawerHeader,
   DrawerFooter,
   DrawerBody,
@@ -99,8 +101,9 @@ const Navbar = () => {
             />
           </Button>
           <Drawer isOpen={isOpen} placement="right" onClose={onClose}>
-         
-            <DrawerContent>             
+            <DrawerOverlay />
+            <DrawerContent>
+              <DrawerCloseButton />
               <DrawerHeader fontSize="2xl" borderBottom="2px solid #18CFA8">
                 GlassCart
               </DrawerHeader>

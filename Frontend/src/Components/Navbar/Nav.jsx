@@ -5,6 +5,7 @@ import { AuthContext } from "../../ContextApi/AuthContext";
 import { Link, Navigate } from "react-router-dom";
 import { HamburgerIcon } from "@chakra-ui/icons";
 import {
+  DrawerCloseButton,
   Button,
   Box,
   useDisclosure,
@@ -13,6 +14,7 @@ import {
   Input,
   Drawer,
   DrawerHeader,
+  DrawerOverlay,
   DrawerContent,
   DrawerFooter,
   DrawerBody,
@@ -21,7 +23,8 @@ import {
   Text,
   Accordion,
   AccordionItem,
-  DrawerOverlay,
+  AccordionButton,
+  AccordionPanel,
   AccordionIcon,
   Flex
 } from "@chakra-ui/react";
@@ -71,9 +74,9 @@ function Nav() {
             initialFocusRef={firstField}
             onClose={onClose}
           >
-            
+            <DrawerOverlay />
             <DrawerContent color="blackAlpha.900">
-        <DrawerOverlay />
+              <DrawerCloseButton />
               <DrawerHeader bg="whiteAlpha.900">
                 {isAuth ? (
                   <Flex
@@ -222,7 +225,7 @@ function Nav() {
                   <Accordion defaultIndex={[0]} allowMultiple w="100%" m="auto">
                     <AccordionItem>
                       <h2>
-                        <Accordion.Trigger>
+                        <AccordionButton>
                           <Box
                             as="span"
                             flex="1"
@@ -232,9 +235,9 @@ function Nav() {
                             Men
                           </Box>
                           <AccordionIcon />
-                        </Accordion.Trigger>
+                        </AccordionButton>
                       </h2>
-                      <Accordion.Content pb={4}>
+                      <AccordionPanel pb={4}>
                         <Link to="/products">
                           <Box>
                             <Text pb="2">EYEGLASSES</Text>
@@ -243,11 +246,11 @@ function Nav() {
                             <Text pb="2">SUN GLASSES</Text>
                           </Box>
                         </Link>
-                      </Accordion.Content>
+                      </AccordionPanel>
                     </AccordionItem>
                     <AccordionItem>
                       <h2>
-                       <Accordion.Trigger>
+                        <AccordionButton>
                           <Box
                             as="span"
                             flex="1"
@@ -257,9 +260,9 @@ function Nav() {
                             Women
                           </Box>
                           <AccordionIcon />
-                        </Accordion.Trigger>
+                        </AccordionButton>
                       </h2>
-                      <Accordion.Content pb={5}>
+                      <AccordionPanel pb={5}>
                         <Link to="/products">
                           <Box>
                             <Text pb="2">EYEGLASSES</Text>
@@ -268,11 +271,11 @@ function Nav() {
                             <Text pb="2">SUN GLASSES</Text>
                           </Box>
                         </Link>
-                      </Accordion.Content>
+                      </AccordionPanel>
                     </AccordionItem>
                     <AccordionItem>
                       <h2>
-                       <Accordion.Trigger>
+                        <AccordionButton>
                           <Box
                             as="span"
                             flex="1"
@@ -282,10 +285,9 @@ function Nav() {
                             Kids
                           </Box>
                           <AccordionIcon />
-                          </Accordion.Trigger>
-                      
+                        </AccordionButton>
                       </h2>
-                      <Accordion.Content pb={4}>
+                      <AccordionPanel pb={4}>
                         <Link to="/products">
                           <Box>
                             <Text pb="2">EYEGLASSES</Text>
@@ -294,7 +296,7 @@ function Nav() {
                             <Text pb="2">SUN GLASSES</Text>
                           </Box>
                         </Link>
-                      </Accordion.Content>
+                      </AccordionPanel>
                     </AccordionItem>
                   </Accordion>
                 </Box>

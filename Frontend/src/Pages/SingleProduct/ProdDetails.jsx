@@ -6,8 +6,8 @@ import {
   Flex,
   Accordion,
   AccordionItem,
-    AccordionContent,
-  AccordionTrigger,
+  AccordionButton,
+  AccordionPanel,
   AccordionIcon,
   Box
 } from "@chakra-ui/react";
@@ -18,14 +18,14 @@ const ProdDetails = ({ type }) => {
     <Accordion defaultIndex={[0]} allowMultiple w="100%" m="auto">
       <AccordionItem>
         <h2>
-          <AccordionTrigger>
+          <AccordionButton>
             <Box as="span" flex="1" textAlign="left" fontWeight="500">
               Technical Information
             </Box>
             <AccordionIcon />
-          </AccordionTrigger>
+          </AccordionButton>
         </h2>
-        <Accordion.Content pb={4}>
+        <AccordionPanel pb={4}>
           <Box>
             <Flex gap="4">
               <Box color="gray.400" fontWeight="500">
@@ -64,18 +64,18 @@ const ProdDetails = ({ type }) => {
               <Box>{type.colors}</Box>
             </Flex>
           </Box>
-        </Accordion.Content>
+        </AccordionPanel>
       </AccordionItem>
       <AccordionItem>
         <h2>
-           <Accordion.Trigger>
+          <AccordionButton>
             <Box as="span" flex="1" textAlign="left" fontWeight="500">
               Visit Nearby Store
             </Box>
             <AccordionIcon />
-           </Accordion.Trigger>
+          </AccordionButton>
         </h2>
-        <Accordion.Content pb={4}>
+        <AccordionPanel pb={4}>
           <Flex gap="4" p="4">
             <Image
               src="https://static.lenskart.com/media/desktop/img/pdp/visit_store.png"
@@ -88,31 +88,31 @@ const ProdDetails = ({ type }) => {
               </Text>
             </Box>
           </Flex>
-        </Accordion.Content>
+        </AccordionPanel>
       </AccordionItem>
       <AccordionItem>
         <h2>
-           <Accordion.Trigger>
+          <AccordionButton>
             <Box as="span" flex="1" textAlign="left" fontWeight="500">
               Check Delivery Options
             </Box>
             <AccordionIcon />
-           </Accordion.Trigger>
+          </AccordionButton>
         </h2>
-        <Accordion.Content pb={4}>
+        <AccordionPanel pb={4}>
           <Input placeholder="Enter Pin Code" />
-        </Accordion.Content>
+        </AccordionPanel>
       </AccordionItem>
       <AccordionItem>
         <h2>
-           <Accordion.Trigger>
+          <AccordionButton>
             <Box as="span" flex="1" textAlign="left" fontWeight="500">
               Review
             </Box>
             <AccordionIcon />
-           </Accordion.Trigger>
+          </AccordionButton>
         </h2>
-        <Accordion.Content pb={4}>
+        <AccordionPanel pb={4}>
           <Text textAlign="center" mb="4">
             No Reviews
           </Text>
@@ -120,7 +120,7 @@ const ProdDetails = ({ type }) => {
           <Button m="auto" w="100%" bg="#00bac6" color="white">
             WRITE A REVIEW
           </Button>
-        </Accordion.Content>
+        </AccordionPanel>
       </AccordionItem>
     </Accordion>
   );

@@ -4,10 +4,10 @@ import {
   combineReducers,
   compose
 } from "redux";
-import { CartReducer } from "./CartPage/reducer.js";
+import { CartReducer } from "./CartPage/reducer";
 import thunk from "redux-thunk";
-import { wishlistReducer } from "./wishlist/wishlist.reducer.js";
-import { orderReducer } from "./order/order.reducer.js";
+import { wishlistReducer } from "./wishlist/wishlist.reducer";
+import { orderReducer } from "./order/order.reducer";
 
 const rootReducer = combineReducers({
   CartReducer,

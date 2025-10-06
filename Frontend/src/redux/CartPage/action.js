@@ -5,7 +5,7 @@ import {
   INCREMENT,
   DECREMENT,
   RESET
-} from "./actionType.js";
+} from "./actionType";
 
 export const addToCart = (product) => {
   return {
